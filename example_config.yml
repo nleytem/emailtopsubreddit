@@ -1,0 +1,15 @@
+auth:
+  username:
+  password:
+  app_id:
+  app_secret:
+  email_username:
+  email_password:
+
+subreddits:
+  - name:
+    count:
+
+recipients:
+  - name:
+    email:
